@@ -6,7 +6,7 @@ A classic arcade racing game 🏁 where you control a car 🚘 on a winding trac
 ## 🖥️ **System Requirements**  
 Our games run on:  
 - Windows (7, 8, 10, 11) 🪟  
-- Debian and other Linux distros 🐧  
+- Debian Linux distros 🐧  
 - macOS (latest versions) 🍏  
 
 ## 🕹️ **How to Play?** 🎮  
