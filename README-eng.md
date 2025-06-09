@@ -38,4 +38,3 @@ Control using keyboard arrows:
 
 *Tip: Try to beat your high score!*  
 
-*(Note: Kept essential emojis for gameplay elements while maintaining clean, professional presentation. Used simple, direct language suitable for international audience while preserving all game information.)*
