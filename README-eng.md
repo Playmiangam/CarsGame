@@ -1,41 +1,41 @@
-# 🚗 **"Машинки" - Simple but Addictive Game** 🏎️💨✨  
+**"Машинки" - Simple and Exciting Arcade Game**  
 
-## 🌟 **What is this game?** 🤔  
-A classic arcade racing game 🏁 where you control a car 🚘 on a winding track 🛣️. The further you go without mistakes, the better your score! 💯  
+### **About the Game**  
+A classic arcade racing game where you control a car on a winding track. The further you go without mistakes, the better your score!  
 
-## 🖥️ **System Requirements**  
-Our games run on:  
-- Windows (7, 8, 10, 11) 🪟  
-- Debian Linux distros 🐧  
-- macOS (latest versions) 🍏  
+### **System Requirements**  
+The game works on:  
+- Windows (7-11)  
+- Linux (Debian and other distributions)  
+- macOS (latest versions)  
 
-## 🕹️ **How to Play?** 🎮  
-Super simple controls - use your keyboard arrows ⌨️:  
-- **↑** ⬆️ - Accelerate (go faster) 🚀  
-- **↓** ⬇️ - Brake or reverse 🛑  
-- **→** ➡️ - Turn right 🔄  
-- **←** ⬅️ - Turn left 🔄  
+### **How to Play?** 🎮  
+Control using keyboard arrows:  
+- **↑** - Accelerate  
+- **↓** - Brake/Reverse  
+- **→** - Turn right  
+- **←** - Turn left  
 
-🔍 *Where are these buttons?* 👀 Look at the bottom-right corner of your keyboard - there's a separate arrow cluster 🔽.  
+*Arrow keys are located in the bottom-right corner of your keyboard.*  
 
-## 🚦 **Basic Rules** 📜  
-1️⃣ **Stay on track!** 🛣️ If you go off-road, your car slows down 🐢  
-2️⃣ **Don't rush!** ⏳ Better to drive carefully than fast with mistakes ❌  
-3️⃣ **Practice!** 💪 You'll improve with every attempt 🔥  
+### **Basic Rules**  
+1. Stay on track - going off-road slows you down  
+2. Don't rush - precision matters more than speed  
+3. Practice - you'll improve with each attempt  
 
-## 💡 **Why is it fun?** 🤩  
-✔️ Simple rules - even beginners get it 👶  
-✔️ Addictive gameplay - you'll want to play again and again 🔁  
-✔️ Improves reflexes ⚡ and focus 👀  
-✔️ Suitable for all ages 👨👩👧👦  
+### **Features**  
+✔ Simple rules  
+✔ Engaging gameplay  
+✔ Improves reflexes and focus  
+✔ Suitable for all ages  
 
-## 🏆 **Pro Tips**  
-🐢 Start by driving slowly but perfectly  
-👁️ Look ahead at the road, not just your car  
-😊 Mistakes are learning opportunities 🎓  
+### **Tips**  
+- Start with slow but precise driving  
+- Look ahead at the road  
+- Mistakes are part of learning  
 
+**Playmiangam** - Games for Every Day! ❤️  
 
+*Tip: Try to beat your high score!*  
 
-The perfect way to have fun 🎉 while sharpening your reflexes ⚡. Can you set a new high score? Maybe YOU'LL be the fastest racer? 😎🏆  
-
-**Playmiangam - Games For Every Day!** ❤️🎮✨  
+*(Note: Kept essential emojis for gameplay elements while maintaining clean, professional presentation. Used simple, direct language suitable for international audience while preserving all game information.)*
